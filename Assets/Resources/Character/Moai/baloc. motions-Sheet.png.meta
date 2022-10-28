@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: 5ad45abc566ab424386e92d393f4c22f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -879748110796430572
+    second: baloc. motions-Sheet_0
+  - first:
+      213: -2677489495640571348
+    second: baloc. motions-Sheet_1
+  - first:
+      213: 845313767844804702
+    second: baloc. motions-Sheet_2
+  - first:
+      213: 8132955297626960238
+    second: baloc. motions-Sheet_3
+  - first:
+      213: 2198956995639489756
+    second: baloc. motions-Sheet_4
+  - first:
+      213: -5209461810333791224
+    second: baloc. motions-Sheet_5
+  - first:
+      213: -2536495048070744391
+    second: baloc. motions-Sheet_6
+  - first:
+      213: 5928748023119095205
+    second: baloc. motions-Sheet_7
+  - first:
+      213: -3040196728142168707
+    second: baloc. motions-Sheet_8
+  - first:
+      213: -1426456284834087961
+    second: baloc. motions-Sheet_9
+  - first:
+      213: -4902837254609646582
+    second: baloc. motions-Sheet_10
+  - first:
+      213: -5936715753394055671
+    second: baloc. motions-Sheet_11
+  - first:
+      213: 6007530308459875392
+    second: baloc. motions-Sheet_12
+  - first:
+      213: 8309627236877116894
+    second: baloc. motions-Sheet_13
+  - first:
+      213: 1154814031054477874
+    second: baloc. motions-Sheet_14
+  - first:
+      213: 1003928900314961919
+    second: baloc. motions-Sheet_15
+  - first:
+      213: 175332425979969668
+    second: baloc. motions-Sheet_16
+  - first:
+      213: -6913554504563887440
+    second: baloc. motions-Sheet_17
+  - first:
+      213: -8912122521693222079
+    second: baloc. motions-Sheet_18
+  - first:
+      213: -8598457369590304543
+    second: baloc. motions-Sheet_19
+  - first:
+      213: 7224658223593362193
+    second: baloc. motions-Sheet_20
+  - first:
+      213: 6875136292326754114
+    second: baloc. motions-Sheet_21
+  - first:
+      213: -5347485326894136229
+    second: baloc. motions-Sheet_22
+  - first:
+      213: -2362244373891549251
+    second: baloc. motions-Sheet_23
+  - first:
+      213: 968528769540895742
+    second: baloc. motions-Sheet_24
+  - first:
+      213: 2715718805161626178
+    second: baloc. motions-Sheet_25
+  - first:
+      213: 6596261469692218183
+    second: baloc. motions-Sheet_26
+  - first:
+      213: -7165557428098862423
+    second: baloc. motions-Sheet_27
+  - first:
+      213: 5237887200175873692
+    second: baloc. motions-Sheet_28
+  - first:
+      213: 8139495012338260630
+    second: baloc. motions-Sheet_29
+  - first:
+      213: -7913471712793297783
+    second: baloc. motions-Sheet_30
+  - first:
+      213: 5478972963777269489
+    second: baloc. motions-Sheet_31
+  - first:
+      213: 869638719792306094
+    second: baloc. motions-Sheet_32
+  - first:
+      213: 3999911131231926044
+    second: baloc. motions-Sheet_33
+  - first:
+      213: -5747844686369008306
+    second: baloc. motions-Sheet_34
+  - first:
+      213: -8807044240974053708
+    second: baloc. motions-Sheet_35
+  - first:
+      213: 2384893261862611138
+    second: baloc. motions-Sheet_36
+  - first:
+      213: 3384955418670263670
+    second: baloc. motions-Sheet_37
+  - first:
+      213: 8870521598657510656
+    second: baloc. motions-Sheet_38
+  - first:
+      213: -828827427701209341
+    second: baloc. motions-Sheet_39
+  - first:
+      213: 3700293908454134816
+    second: baloc. motions-Sheet_40
+  - first:
+      213: -8267504327989145579
+    second: baloc. motions-Sheet_41
+  - first:
+      213: 3845488756293692029
+    second: baloc. motions-Sheet_42
+  - first:
+      213: -4188177390919522105
+    second: baloc. motions-Sheet_43
+  - first:
+      213: -3954673629009136560
+    second: baloc. motions-Sheet_44
+  - first:
+      213: -8949230579326008799
+    second: baloc. motions-Sheet_45
+  - first:
+      213: 1539770436072258809
+    second: baloc. motions-Sheet_46
+  - first:
+      213: -5435379569736568472
+    second: baloc. motions-Sheet_47
+  - first:
+      213: -4872727714302553560
+    second: baloc. motions-Sheet_48
+  - first:
+      213: 3413049817859829048
+    second: baloc. motions-Sheet_49
+  - first:
+      213: -2082654390458446227
+    second: baloc. motions-Sheet_50
+  - first:
+      213: -1423899374652065688
+    second: baloc. motions-Sheet_51
+  - first:
+      213: -5640340013099859066
+    second: baloc. motions-Sheet_52
+  - first:
+      213: -4848534638846796284
+    second: baloc. motions-Sheet_53
+  - first:
+      213: -3484203595329918258
+    second: baloc. motions-Sheet_54
+  - first:
+      213: 4068707763651111875
+    second: baloc. motions-Sheet_55
+  - first:
+      213: 6267095719554059571
+    second: baloc. motions-Sheet_56
+  - first:
+      213: -2282206917501013510
+    second: baloc. motions-Sheet_57
+  - first:
+      213: -4552923760672964484
+    second: baloc. motions-Sheet_58
+  - first:
+      213: 8306583747690925462
+    second: baloc. motions-Sheet_59
+  - first:
+      213: -8172419568560200172
+    second: baloc. motions-Sheet_60
+  - first:
+      213: -6941921813511217276
+    second: baloc. motions-Sheet_61
+  - first:
+      213: 4631062119739586826
+    second: baloc. motions-Sheet_62
+  - first:
+      213: 5804552900932885417
+    second: baloc. motions-Sheet_63
+  - first:
+      213: 5039118551755429976
+    second: baloc. motions-Sheet_64
+  - first:
+      213: -2210184372114937393
+    second: baloc. motions-Sheet_65
+  - first:
+      213: -4775023175810433890
+    second: baloc. motions-Sheet_66
+  - first:
+      213: -329978139426294482
+    second: baloc. motions-Sheet_67
+  - first:
+      213: -4810327514647889045
+    second: baloc. motions-Sheet_68
+  - first:
+      213: 1292551583113159949
+    second: baloc. motions-Sheet_69
+  - first:
+      213: 2271239857230721231
+    second: baloc. motions-Sheet_70
+  - first:
+      213: 6810416301054504885
+    second: baloc. motions-Sheet_71
+  - first:
+      213: 6893599072799043622
+    second: baloc. motions-Sheet_72
+  - first:
+      213: -4181096500308146352
+    second: baloc. motions-Sheet_73
+  - first:
+      213: -8492536883706224708
+    second: baloc. motions-Sheet_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5722656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413682c11c18ac3f0800000000000000
+      internalID: -879748110796430572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2304
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.54744524, y: 0.5917969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22018a5d75a7dad0800000000000000
+      internalID: -2677489495640571348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2304
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.49635038, y: 0.5722656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58f228a4682bbb00800000000000000
+      internalID: 845313767844804702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2304
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.49635038, y: 0.5332031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61bf21c0cf0ed070800000000000000
+      internalID: 8132955297626960238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2304
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.49635038, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4b379acb3448e10800000000000000
+      internalID: 2198956995639489756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2304
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5182482, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c471c951644b7b0800000000000000
+      internalID: -5209461810333791224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b435513f8cccd0800000000000000
+      internalID: -2536495048070744391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2048
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a520d84ae4274250800000000000000
+      internalID: 5928748023119095205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2048
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7df7c3fe2d0fc5d0800000000000000
+      internalID: -3040196728142168707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2048
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb37de0195343ce0800000000000000
+      internalID: -1426456284834087961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2048
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc0774e7f95fbb0800000000000000
+      internalID: -4902837254609646582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2048
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9065b72f97c8c9da0800000000000000
+      internalID: -5936715753394055671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2048
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cc42d7cf80f5350800000000000000
+      internalID: 6007530308459875392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 2048
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a8f512f9b15370800000000000000
+      internalID: 8309627236877116894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a93a62e39b60010800000000000000
+      internalID: 1154814031054477874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1792
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7950b040caeed00800000000000000
+      internalID: 1003928900314961919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1792
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480c42899e7ee6200800000000000000
+      internalID: 175332425979969668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1792
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2fa24cece1e00a0800000000000000
+      internalID: -6913554504563887440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1792
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b87b3f8c7c15480800000000000000
+      internalID: -8912122521693222079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1792
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0fa3534942ca880800000000000000
+      internalID: -8598457369590304543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1792
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11313e06064234460800000000000000
+      internalID: 7224658223593362193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1792
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24748862804696f50800000000000000
+      internalID: 6875136292326754114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b548cd86d6ae9c5b0800000000000000
+      internalID: -5347485326894136229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1536
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db77785f14f973fd0800000000000000
+      internalID: -2362244373891549251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1536
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33b3fc8c7e07d00800000000000000
+      internalID: 968528769540895742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1536
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ac1836ddb20b520800000000000000
+      internalID: 2715718805161626178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1536
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bc992bbd0aa8b50800000000000000
+      internalID: 6596261469692218183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1536
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a27180eb73de8c90800000000000000
+      internalID: -7165557428098862423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1536
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e5c0438a6b0b840800000000000000
+      internalID: 5237887200175873692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1536
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a5c7db69b45f070800000000000000
+      internalID: 8139495012338260630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5058594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c7ad29763bd2290800000000000000
+      internalID: -7913471712793297783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1280
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fec9e7b1e8390c40800000000000000
+      internalID: 5478972963777269489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1280
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea75520eec3911c00800000000000000
+      internalID: 869638719792306094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1280
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17b53e3bf9828730800000000000000
+      internalID: 3999911131231926044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1280
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45dbdc06bd8b30b0800000000000000
+      internalID: -5747844686369008306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1280
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be779face717c580800000000000000
+      internalID: -8807044240974053708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1280
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c82b8439c7d81120800000000000000
+      internalID: 2384893261862611138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1280
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67def5ed407c9fe20800000000000000
+      internalID: 3384955418670263670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d396c556c6a1b70800000000000000
+      internalID: 8870521598657510656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1024
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c4c788d96f74f0800000000000000
+      internalID: -828827427701209341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1024
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02453f964b51a5330800000000000000
+      internalID: 3700293908454134816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1024
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510d337ed9ce34d80800000000000000
+      internalID: -8267504327989145579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1024
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ae4aa46abed5530800000000000000
+      internalID: 3845488756293692029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1024
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c86be55ada90e5c0800000000000000
+      internalID: -4188177390919522105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.41970804, y: 0.6191406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0543e44894d2e19c0800000000000000
+      internalID: -3954673629009136560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 768
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.47080293, y: 0.5878906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122c5320432fdc380800000000000000
+      internalID: -8949230579326008799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 768
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.63503647, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc3cb5bd0d5e5510800000000000000
+      internalID: 1539770436072258809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 768
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.58759123, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861bf664417a194b0800000000000000
+      internalID: -5435379569736568472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 768
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.55474454, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8229bcde5f7906cb0800000000000000
+      internalID: -4872727714302553560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5693431, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d2f3ae9b69d5f20800000000000000
+      internalID: 3413049817859829048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5839416, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e01d2cddce813e0800000000000000
+      internalID: -2082654390458446227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5839416, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86876f9101b4d3ce0800000000000000
+      internalID: -1423899374652065688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5839416, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683c2c254ac79b1b0800000000000000
+      internalID: -5640340013099859066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5839416, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e1c524f6b86bcb0800000000000000
+      internalID: -4848534638846796284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5839416, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa8374a4f95afc0800000000000000
+      internalID: -3484203595329918258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5839416, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb6c437724f67830800000000000000
+      internalID: 4068707763651111875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5839416, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d04693a5239f650800000000000000
+      internalID: 6267095719554059571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5839416, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1b96276e8f350e0800000000000000
+      internalID: -2282206917501013510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5620438, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7007ab46f3c0d0c0800000000000000
+      internalID: -4552923760672964484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 512
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5729927, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d862a88e9e64370800000000000000
+      internalID: 8306583747690925462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416a484a3bbb59e80800000000000000
+      internalID: -8172419568560200172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fd027f3e659af90800000000000000
+      internalID: -6941921813511217276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0978d32676d44040800000000000000
+      internalID: 4631062119739586826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab511c0c1aed8050800000000000000
+      internalID: 5804552900932885417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858967adf9b8ee540800000000000000
+      internalID: 5039118551755429976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc928fb0609d351e0800000000000000
+      internalID: -2210184372114937393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cbf8388b5bbbdb0800000000000000
+      internalID: -4775023175810433890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25f9d761aeab6bf0800000000000000
+      internalID: -329978139426294482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bff149c984e3db0800000000000000
+      internalID: -4810327514647889045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05245d01d010f110800000000000000
+      internalID: 1292551583113159949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 256
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5291971, y: 0.5214844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc032f9dd90158f10800000000000000
+      internalID: 2271239857230721231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.620438, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf22ecea85738e50800000000000000
+      internalID: 6810416301054504885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.7116788, y: 0.52734375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620362635dbfaaf50800000000000000
+      internalID: 6893599072799043622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.56569344, y: 0.5253906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0570187a2e2c9f5c0800000000000000
+      internalID: -4181096500308146352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baloc. motions-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 274
+        height: 256
+      alignment: 9
+      pivot: {x: 0.6021898, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf99cc13b2742a80800000000000000
+      internalID: -8492536883706224708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

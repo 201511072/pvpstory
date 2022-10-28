@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: 1380aaafec6efba4f90409f182244090
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7334230794754098957
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_0
+  - first:
+      213: 4781487116301064792
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_1
+  - first:
+      213: -5558285434911007283
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_2
+  - first:
+      213: -5848851575734649204
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_3
+  - first:
+      213: 2290101416493494743
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_4
+  - first:
+      213: 482130937348464274
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_5
+  - first:
+      213: 5859468304901648960
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_6
+  - first:
+      213: 2951241733893216854
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_7
+  - first:
+      213: -8613755390208175491
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_8
+  - first:
+      213: -7850851725343145642
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_9
+  - first:
+      213: -5781511688666670332
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_10
+  - first:
+      213: -8194538375265854956
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_11
+  - first:
+      213: 7420525025906015545
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_12
+  - first:
+      213: 5373192850847145023
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_13
+  - first:
+      213: 374929518955630476
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_14
+  - first:
+      213: 337981976957721457
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_15
+  - first:
+      213: -130791867927066462
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_16
+  - first:
+      213: -6045644318412651279
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_17
+  - first:
+      213: -8259405247357998007
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_18
+  - first:
+      213: -7878306067104818901
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_19
+  - first:
+      213: -7041612925191900468
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_20
+  - first:
+      213: -429444229196341607
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_21
+  - first:
+      213: -5943540485066830895
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_22
+  - first:
+      213: -7279115625584656751
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_23
+  - first:
+      213: 7053973180796059830
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_24
+  - first:
+      213: 5674548192134789946
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_25
+  - first:
+      213: 2563620116764054107
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_26
+  - first:
+      213: 129247569397007624
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_27
+  - first:
+      213: -6787910406904450461
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_28
+  - first:
+      213: 2996559357835859725
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_29
+  - first:
+      213: 174535605864496370
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_30
+  - first:
+      213: -2733307830536509992
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_31
+  - first:
+      213: -2069746208093167793
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_32
+  - first:
+      213: 8729697877209708851
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_33
+  - first:
+      213: 6557995848985001088
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_34
+  - first:
+      213: -4663162959569796901
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_35
+  - first:
+      213: 4264746047478467060
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_36
+  - first:
+      213: -3013124801072229818
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_37
+  - first:
+      213: -2747476072079220561
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_38
+  - first:
+      213: -8225180272118346163
+    second: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078c06ac0c68c560800000000000000
+      internalID: 7334230794754098957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a5b39e2314b5240800000000000000
+      internalID: 4781487116301064792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdd6e398d00dd2b0800000000000000
+      internalID: -5558285434911007283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e3a5cfa74b4dea0800000000000000
+      internalID: -5848851575734649204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1b6b5da1318cf10800000000000000
+      internalID: 2290101416493494743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e91e7788fd0b600800000000000000
+      internalID: 482130937348464274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042b256e063015150800000000000000
+      internalID: 5859468304901648960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a530b78bae4f820800000000000000
+      internalID: 2951241733893216854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7219883c1bc57880800000000000000
+      internalID: -8613755390208175491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651c8ae83fb2c0390800000000000000
+      internalID: -7850851725343145642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b114c30c1f3cfa0800000000000000
+      internalID: -5781511688666670332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad8f3a3c6274e80800000000000000
+      internalID: -8194538375265854956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d360802300bf660800000000000000
+      internalID: 7420525025906015545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c9960fd6a619a40800000000000000
+      internalID: 5373192850847145023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 962
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7291667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f88293964043500800000000000000
+      internalID: 374929518955630476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b9c0d31d0c0b400800000000000000
+      internalID: 337981976957721457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a882b43d755f2ef0800000000000000
+      internalID: -130791867927066462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4c7aa068e891ca0800000000000000
+      internalID: -6045644318412651279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94caa3f00b2b06d80800000000000000
+      internalID: -8259405247357998007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29996e7f52aaa290800000000000000
+      internalID: -7878306067104818901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc233244a5a274e90800000000000000
+      internalID: -7041612925191900468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e19e3bfbe4a0af0800000000000000
+      internalID: -429444229196341607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db40774b6d448da0800000000000000
+      internalID: -5943540485066830895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ef70aa7e26bfa90800000000000000
+      internalID: -7279115625584656751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b04b700c3fb4e160800000000000000
+      internalID: 7053973180796059830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b7705048b00ce40800000000000000
+      internalID: 5674548192134789946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5254ced9eec39320800000000000000
+      internalID: 2563620116764054107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805cdf5cafd2bc100800000000000000
+      internalID: 129247569397007624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3627845e27f7cc1a0800000000000000
+      internalID: -6787910406904450461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07dd280cdae59920800000000000000
+      internalID: 2996559357835859725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf53475331c6200800000000000000
+      internalID: 174535605864496370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5e3138207511ad0800000000000000
+      internalID: -2733307830536509992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f156b2ac8c643e0800000000000000
+      internalID: -2069746208093167793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f097a7fd162970800000000000000
+      internalID: 8729697877209708851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cbc399a7ea20b50800000000000000
+      internalID: 6557995848985001088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd04519aefd194fb0800000000000000
+      internalID: -4663162959569796901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f984314feb6f2b30800000000000000
+      internalID: 4264746047478467060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6429b2825fa3f26d0800000000000000
+      internalID: -3013124801072229818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa025d6b1110fd9d0800000000000000
+      internalID: -2747476072079220561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin_rpg-maker-mv-animation-sprite-fire-a-png_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec5d21f1a4add80800000000000000
+      internalID: -8225180272118346163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

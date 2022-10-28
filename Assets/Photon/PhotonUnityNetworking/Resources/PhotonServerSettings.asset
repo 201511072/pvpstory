@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 6b994619-b7a6-4f7c-9d74-1a7fc2fdb0e6
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: 
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - AggroedRPC
+  - ANAttackRPC
+  - ANHurtRPC
+  - ANSkill1RPC
+  - AnSkill2RPC
+  - ANSkill2RPC
+  - ANStunRPC
+  - Blue1Col
+  - Blue2Col
+  - ChangeDEF
+  - ClickRpc
+  - DestroyRpc
+  - DestroyRPC
+  - DestroySpaceship
+  - DirRPC
+  - DontHitByArrowRPC
+  - Fire
+  - FlipXRPC
+  - InitRPC
+  - isParryingedRPC
+  - JumpRPC
+  - LeftAttackRPC
+  - MoaiS2OutRPC
+  - MoaiS2PullRPC
+  - MoaiS2StunRPC
+  - MoaiSkill1RPC
+  - NicknameTextRPC
+  - NotAggroedRPC
+  - PlayerHPBarchange
+  - Red1Col
+  - Red2Col
+  - RespawnRPC
+  - RespawnSpaceship
+  - RightAttackRPC
+  - S2SREnableFalse
+  - S2SREnableTrue
+  - SelectCompleteRPC
+  - ShowCharacterSelectedRPC
+  - ShowLog
+  - Skill1RPC
+  - Skill1RPC1
+  - Skill1RPC2
+  - StunRPC
+  - TriggerEnter
+  - TriggerExit
+  - SynchronizeSlot
+  - RTChange
+  - ItemSelectCompleteRPC
+  - SetItems
+  - ItemSetDoneRPC
+  - SliderPlusRPC
+  - Skill2RPC
+  - ZonyaRPC
+  - SunFireEffectRPC
+  - MapRPC
+  - AttackRPC
+  - ReturnRPC
+  - pullTeamRPC
+  - SetActiveTrue
+  - ActiveTrueRPC
+  - LRScriptFalseRPC
+  - LRScriptTrueRPC
+  - LRScriptRPC
+  - ActiveRPC
+  - LinkS1ConnectedRPC
+  - ShieldChangeRPC
+  - resetRPC
+  - MoveLockRPC
+  - OffHurricaneRPC
+  - OnHurricaneRPC
+  - ANUltRPC
+  - ANUltStartRPC
+  - UltRPC
+  - UltStartRPC
+  - PlayerHPChangeRPC
+  - RespawnMyCharacterRPC
+  - OnLuxBuff
+  - StiffRPC
+  - ANSkill1EndRPC
+  - RBSimulatedRPC
+  - BlueTeamCaptured
+  - RedTeamCaptured
+  - BlueTeamWin
+  - RedTeamWin
+  - GravityRPC
+  - DamageReductionRPC
+  - MoaiS2PullOffRPC
+  - MoaiS2PullOnRPC
+  - S2SREnableRPC
+  - NoHurtMotionRPC
+  - SecondJumpRPC
+  - S1MoveRPC
+  - HpKitOff
+  - HpKitOn
+  - SetActorNumberRankPoint
+  - RankPointReadyRPC
+  - SetTeamRPC
+  - RankPointReady1TimeRPC
+  - ReadyForCharacterSelectRPC
+  - ItemSlotRTChangeRPC
+  - TaraS1InitRPC
+  - UltShowRangeRPC
+  - ANJumpAttackRPC
+  - ANFallRPC
+  - ANWalkRPC
+  - ANSkill2FalseRPC
+  - ANSkill2TrueRPC
+  - MoaiS2OptionRPC
+  - HitEffectRPC
+  - ANLandRPC
+  - ANReloadRPC
+  - ANJumpUltRPC
+  - ImuneStiffRPC
+  - Skill1HitboxRPC
+  - ANSkill2EndRPC
+  - ANS2HitboxRPC
+  - ANS2HitboxEndRPC
+  - ANS2HitboxStartRPC
+  - ImuneStunRPC
+  - ANSkill1EffectRPC
+  - ANSkill1HitEffectRPC
+  - Portal
+  - TransmissionLight
+  - BuffRPC
+  - testRPC
+  - debug1
+  - forlog
+  - PausedRPC
+  - LogRPC
+  - SoundRPC
+  - DontChangeGravityRPC
+  - AN_End_RPC
+  - AttackANRPC
+  - ANAttackHitEffectRPC
+  - EndLobbyInitRPC
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: 98a70c3b76d383d4b8b18b0401fbd6d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2368480117924580190
+    second: tara motions turret-Sheet_0
+  - first:
+      213: -1817106513279009896
+    second: tara motions turret-Sheet_1
+  - first:
+      213: 3169566214491815160
+    second: tara motions turret-Sheet_2
+  - first:
+      213: -4134583836744673766
+    second: tara motions turret-Sheet_3
+  - first:
+      213: 6657897909944531622
+    second: tara motions turret-Sheet_4
+  - first:
+      213: 9168370378697924954
+    second: tara motions turret-Sheet_5
+  - first:
+      213: 2811995817332027496
+    second: tara motions turret-Sheet_6
+  - first:
+      213: -5653876774719774224
+    second: tara motions turret-Sheet_7
+  - first:
+      213: -2970033070491706495
+    second: tara motions turret-Sheet_8
+  - first:
+      213: -2822660010825664766
+    second: tara motions turret-Sheet_9
+  - first:
+      213: 5538426734219304437
+    second: tara motions turret-Sheet_10
+  - first:
+      213: -4150237674341056275
+    second: tara motions turret-Sheet_11
+  - first:
+      213: 7657980737986154377
+    second: tara motions turret-Sheet_12
+  - first:
+      213: -234910878549073614
+    second: tara motions turret-Sheet_13
+  - first:
+      213: 8659917184522240134
+    second: tara motions turret-Sheet_14
+  - first:
+      213: -3095144786212802403
+    second: tara motions turret-Sheet_15
+  - first:
+      213: 4848013391191701202
+    second: tara motions turret-Sheet_16
+  - first:
+      213: -1057924031396551624
+    second: tara motions turret-Sheet_17
+  - first:
+      213: -4633963053262790772
+    second: tara motions turret-Sheet_18
+  - first:
+      213: 3319521859312930146
+    second: tara motions turret-Sheet_19
+  - first:
+      213: -6071359470212701441
+    second: tara motions turret-Sheet_20
+  - first:
+      213: -3041013144787053449
+    second: tara motions turret-Sheet_21
+  - first:
+      213: 8128587068694963848
+    second: tara motions turret-Sheet_22
+  - first:
+      213: 304918881253044098
+    second: tara motions turret-Sheet_23
+  - first:
+      213: -2950082688497741617
+    second: tara motions turret-Sheet_24
+  - first:
+      213: 6249571623824910527
+    second: tara motions turret-Sheet_25
+  - first:
+      213: -1268973322331256494
+    second: tara motions turret-Sheet_26
+  - first:
+      213: -3303049812104297393
+    second: tara motions turret-Sheet_27
+  - first:
+      213: 1186608789766185376
+    second: tara motions turret-Sheet_28
+  - first:
+      213: 8817509060783096807
+    second: tara motions turret-Sheet_29
+  - first:
+      213: -3083647962116947807
+    second: tara motions turret-Sheet_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4b789a1e7712fd0800000000000000
+      internalID: -2368480117924580190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb4fce04758c6e0800000000000000
+      internalID: -1817106513279009896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc3dd2ddaf8cfb20800000000000000
+      internalID: 3169566214491815160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1613cc08e10f96c0800000000000000
+      internalID: -4134583836744673766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 608
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa3f01cfda956c50800000000000000
+      internalID: 6657897909944531622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 608
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51e08788489c3f70800000000000000
+      internalID: 9168370378697924954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860b5f91c47360720800000000000000
+      internalID: 2811995817332027496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 456
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f12ff667056981b0800000000000000
+      internalID: -5653876774719774224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 456
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bdd2688a258c6d0800000000000000
+      internalID: -2970033070491706495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 456
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207390ddca5e3d8d0800000000000000
+      internalID: -2822660010825664766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 456
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd1bab55c17cdc40800000000000000
+      internalID: 5538426734219304437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de04577f2d46766c0800000000000000
+      internalID: -4150237674341056275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fc27058ec964a60800000000000000
+      internalID: 7657980737986154377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2312532fccd6dbcf0800000000000000
+      internalID: -234910878549073614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680cfbf0cc43e2870800000000000000
+      internalID: 8659917184522240134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 304
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9032693736db05d0800000000000000
+      internalID: -3095144786212802403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d671505e7a974340800000000000000
+      internalID: 4848013391191701202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8346245d2bf7151f0800000000000000
+      internalID: -1057924031396551624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 152
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f9cf3a72bd0bfb0800000000000000
+      internalID: -4633963053262790772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 152
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dcd702b8f411e20800000000000000
+      internalID: 3319521859312930146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 152
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a442bab23ebba0800000000000000
+      internalID: -6071359470212701441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 152
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7749ca328a62cc5d0800000000000000
+      internalID: -3041013144787053449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886a5633fda8ec070800000000000000
+      internalID: 8128587068694963848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa5626b1a4b3400800000000000000
+      internalID: 304918881253044098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0101ecc633f07d0800000000000000
+      internalID: -2950082688497741617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8e17cb740fab650800000000000000
+      internalID: 6249571623824910527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2598ff49c73b36ee0800000000000000
+      internalID: -1268973322331256494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f444a1a32b53922d0800000000000000
+      internalID: -3303049812104297393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1ae59486ea77010800000000000000
+      internalID: 1186608789766185376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3c3cb06c51e5a70800000000000000
+      internalID: 8817509060783096807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tara motions turret-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a089ad248ea435d0800000000000000
+      internalID: -3083647962116947807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f88713820983b5444a27d4ae0ba9e7ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

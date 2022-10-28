@@ -1,0 +1,2540 @@
+fileFormatVersion: 2
+guid: e3f17c5f14d4d254aa76fc10a10b6293
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -913869314919954452
+    second: Hani motions 1-Sheet_0
+  - first:
+      213: 3721341760798503583
+    second: Hani motions 1-Sheet_1
+  - first:
+      213: -8471611672483721665
+    second: Hani motions 1-Sheet_2
+  - first:
+      213: -5042644876373384495
+    second: Hani motions 1-Sheet_3
+  - first:
+      213: 5590288346556735776
+    second: Hani motions 1-Sheet_4
+  - first:
+      213: 5887321328929742617
+    second: Hani motions 1-Sheet_5
+  - first:
+      213: -2221990950219917166
+    second: Hani motions 1-Sheet_6
+  - first:
+      213: 669752377327068804
+    second: Hani motions 1-Sheet_7
+  - first:
+      213: 4439837345797580964
+    second: Hani motions 1-Sheet_8
+  - first:
+      213: -240750888185434324
+    second: Hani motions 1-Sheet_9
+  - first:
+      213: 539778389199805475
+    second: Hani motions 1-Sheet_10
+  - first:
+      213: -6543368576261336666
+    second: Hani motions 1-Sheet_11
+  - first:
+      213: -417143730996120790
+    second: Hani motions 1-Sheet_12
+  - first:
+      213: 5956145454347741478
+    second: Hani motions 1-Sheet_13
+  - first:
+      213: -9118636129649180727
+    second: Hani motions 1-Sheet_14
+  - first:
+      213: 1451785198278243448
+    second: Hani motions 1-Sheet_15
+  - first:
+      213: 3997196741263186523
+    second: Hani motions 1-Sheet_16
+  - first:
+      213: 2531356567932463952
+    second: Hani motions 1-Sheet_17
+  - first:
+      213: -490242773009287566
+    second: Hani motions 1-Sheet_18
+  - first:
+      213: -5068436738262518837
+    second: Hani motions 1-Sheet_19
+  - first:
+      213: -2540140133139636689
+    second: Hani motions 1-Sheet_20
+  - first:
+      213: -8007947640467404137
+    second: Hani motions 1-Sheet_21
+  - first:
+      213: 2186723615719409276
+    second: Hani motions 1-Sheet_22
+  - first:
+      213: -7184699875412852819
+    second: Hani motions 1-Sheet_23
+  - first:
+      213: -176439443380735558
+    second: Hani motions 1-Sheet_24
+  - first:
+      213: 2991861322187767818
+    second: Hani motions 1-Sheet_25
+  - first:
+      213: -2909182042712664052
+    second: Hani motions 1-Sheet_26
+  - first:
+      213: -7601045976514765650
+    second: Hani motions 1-Sheet_27
+  - first:
+      213: 1776420298263822214
+    second: Hani motions 1-Sheet_28
+  - first:
+      213: 8918889328901226008
+    second: Hani motions 1-Sheet_29
+  - first:
+      213: 9176456825650309794
+    second: Hani motions 1-Sheet_39
+  - first:
+      213: -4796354596167197493
+    second: Hani motions 1-Sheet_40
+  - first:
+      213: 8332929580439222914
+    second: Hani motions 1-Sheet_41
+  - first:
+      213: -6296371720609969182
+    second: Hani motions 1-Sheet_42
+  - first:
+      213: 5846935090277235683
+    second: Hani motions 1-Sheet_43
+  - first:
+      213: -3651677725329967350
+    second: Hani motions 1-Sheet_44
+  - first:
+      213: 5495479699189729482
+    second: Hani motions 1-Sheet_45
+  - first:
+      213: 8768321213073948678
+    second: Hani motions 1-Sheet_46
+  - first:
+      213: -2023047938381442804
+    second: Hani motions 1-Sheet_47
+  - first:
+      213: 2047722219698942923
+    second: Hani motions 1-Sheet_48
+  - first:
+      213: 1228845783850822511
+    second: Hani motions 1-Sheet_49
+  - first:
+      213: -5194868980316108780
+    second: Hani motions 1-Sheet_50
+  - first:
+      213: -3762953363847138306
+    second: Hani motions 1-Sheet_51
+  - first:
+      213: 6089066943523630410
+    second: Hani motions 1-Sheet_52
+  - first:
+      213: 6509030092015147011
+    second: Hani motions 1-Sheet_53
+  - first:
+      213: -5405760439019455491
+    second: Hani motions 1-Sheet_54
+  - first:
+      213: -4560437289347528858
+    second: Hani motions 1-Sheet_55
+  - first:
+      213: -2717359795968631077
+    second: Hani motions 1-Sheet_56
+  - first:
+      213: -3872743030562249301
+    second: Hani motions 1-Sheet_57
+  - first:
+      213: -5397351148556214976
+    second: Hani motions 1-Sheet_58
+  - first:
+      213: 7209032401601396881
+    second: Hani motions 1-Sheet_59
+  - first:
+      213: 4428596423894251984
+    second: Hani motions 1-Sheet_60
+  - first:
+      213: -7205185473333956184
+    second: Hani motions 1-Sheet_61
+  - first:
+      213: -514035513185782498
+    second: Hani motions 1-Sheet_62
+  - first:
+      213: 7459580772140920187
+    second: Hani motions 1-Sheet_63
+  - first:
+      213: -7018984198060123065
+    second: Hani motions 1-Sheet_64
+  - first:
+      213: 6689057317422555332
+    second: Hani motions 1-Sheet_65
+  - first:
+      213: 7288979328437334274
+    second: Hani motions 1-Sheet_66
+  - first:
+      213: 6396969350784064729
+    second: Hani motions 1-Sheet_67
+  - first:
+      213: -4354531843369566275
+    second: Hani motions 1-Sheet_68
+  - first:
+      213: 2519484583842223285
+    second: Hani motions 1-Sheet_69
+  - first:
+      213: -643483419294078177
+    second: Hani motions 1-Sheet_70
+  - first:
+      213: 6012465190062907530
+    second: Hani motions 1-Sheet_83
+  - first:
+      213: 2277305797202593334
+    second: Hani motions 1-Sheet_84
+  - first:
+      213: -956556411609958389
+    second: Hani motions 1-Sheet_85
+  - first:
+      213: 2454558735295335625
+    second: Hani motions 1-Sheet_87
+  - first:
+      213: -2561604921790682726
+    second: Hani motions 1-Sheet_88
+  - first:
+      213: -3717036567795213875
+    second: Hani motions 1-Sheet_89
+  - first:
+      213: -3371261346158076783
+    second: Hani motions 1-Sheet_90
+  - first:
+      213: 8237525700527315038
+    second: Hani motions 1-Sheet_91
+  - first:
+      213: -1525431504085625720
+    second: Hani motions 1-Sheet_92
+  - first:
+      213: -2455684049917496924
+    second: Hani motions 1-Sheet_93
+  - first:
+      213: 2215237653089124397
+    second: Hani motions 1-Sheet_94
+  - first:
+      213: 1694983342849428193
+    second: Hani motions 1-Sheet_100
+  - first:
+      213: 1602477319303225552
+    second: Hani motions 1-Sheet_101
+  - first:
+      213: -9005474125273062976
+    second: Hani motions 1-Sheet_102
+  - first:
+      213: -6931984860846501146
+    second: Hani motions 1-Sheet_103
+  - first:
+      213: -1473483789340391514
+    second: Hani motions 1-Sheet_104
+  - first:
+      213: 4640362721633055082
+    second: Hani motions 1-Sheet_105
+  - first:
+      213: -2185196784711029012
+    second: Hani motions 1-Sheet_106
+  - first:
+      213: 4145170855152876219
+    second: Hani motions 1-Sheet_107
+  - first:
+      213: -4211757188743646130
+    second: Hani motions 1-Sheet_108
+  - first:
+      213: -2944156079150058387
+    second: Hani motions 1-Sheet_109
+  - first:
+      213: -4382380755771199106
+    second: Hani motions 1-Sheet_110
+  - first:
+      213: -2882281069856886340
+    second: Hani motions 1-Sheet_111
+  - first:
+      213: 6934527582437462966
+    second: Hani motions 1-Sheet_112
+  - first:
+      213: -2712633056949648273
+    second: Hani motions 1-Sheet_113
+  - first:
+      213: -3009176396391202588
+    second: Hani motions 1-Sheet_114
+  - first:
+      213: -6060577607323521995
+    second: Hani motions 1-Sheet_115
+  - first:
+      213: 8853006570710570834
+    second: Hani motions 1-Sheet_116
+  - first:
+      213: -6931736136000615271
+    second: Hani motions 1-Sheet_117
+  - first:
+      213: -1258205863336223909
+    second: Hani motions 1-Sheet_118
+  - first:
+      213: 6078745798304260853
+    second: Hani motions 1-Sheet_119
+  - first:
+      213: -7986971270122124536
+    second: Hani motions 1-Sheet_120
+  - first:
+      213: 5710900595602659820
+    second: Hani motions 1-Sheet_121
+  - first:
+      213: 7396877940228924192
+    second: Hani motions 1-Sheet_122
+  - first:
+      213: -7358275540941419717
+    second: Hani motions 1-Sheet_123
+  - first:
+      213: 6680135188848697684
+    second: Hani motions 1-Sheet_124
+  - first:
+      213: 3363259414744367394
+    second: Hani motions 1-Sheet_125
+  - first:
+      213: -3933883158727064048
+    second: Hani motions 1-Sheet_126
+  - first:
+      213: -3241314219924345932
+    second: Hani motions 1-Sheet_127
+  - first:
+      213: 4340060579131550338
+    second: Hani motions 1-Sheet_128
+  - first:
+      213: -2165110747758522738
+    second: Hani motions 1-Sheet_129
+  - first:
+      213: 5659855670499663794
+    second: Hani motions 1-Sheet_130
+  - first:
+      213: -3904745703863268654
+    second: Hani motions 1-Sheet_131
+  - first:
+      213: 1997207096537130155
+    second: Hani motions 1-Sheet_136
+  - first:
+      213: 4630699392989391770
+    second: Hani motions 1-Sheet_137
+  - first:
+      213: 6407410972824996512
+    second: Hani motions 1-Sheet_138
+  - first:
+      213: 1322644569496517933
+    second: Hani motions 1-Sheet_139
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7011133b84153f0800000000000000
+      internalID: -913869314919954452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b83c6d9cd4a330800000000000000
+      internalID: 3721341760798503583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e0e82811ace6a80800000000000000
+      internalID: -8471611672483721665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d22257b33de40ab0800000000000000
+      internalID: -5042644876373384495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0212580f1a1b49d40800000000000000
+      internalID: 5590288346556735776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f10796e87f3b150800000000000000
+      internalID: 5887321328929742617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298520ed007e921e0800000000000000
+      internalID: -2221990950219917166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486ad0a1d307b4900800000000000000
+      internalID: 669752377327068804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a827c0fa887d9d30800000000000000
+      internalID: 4439837345797580964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe85eb75ea8acf0800000000000000
+      internalID: -240750888185434324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cdfa9c59dad7700800000000000000
+      internalID: 539778389199805475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a15d79b2f84135a0800000000000000
+      internalID: -6543368576261336666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23f1bd9cf1063af0800000000000000
+      internalID: -417143730996120790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62964f4dbba78a250800000000000000
+      internalID: 5956145454347741478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfb730b0c8147180800000000000000
+      internalID: -9118636129649180727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8747b8922f6c52410800000000000000
+      internalID: 1451785198278243448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a57541245e87730800000000000000
+      internalID: 3997196741263186523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b6777036f212320800000000000000
+      internalID: 2531356567932463952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276341d9bce4239f0800000000000000
+      internalID: -490242773009287566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3b259e3ab49a9b0800000000000000
+      internalID: -5068436738262518837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e9f74d10c9fbcd0800000000000000
+      internalID: -2540140133139636689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2520
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a43068c0e0ed090800000000000000
+      internalID: -8007947640467404137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2340
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c9e0fa8dc85e10800000000000000
+      internalID: 2186723615719409276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2340
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf393c8781da4c90800000000000000
+      internalID: -7184699875412852819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2340
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab17ce4d2492d8df0800000000000000
+      internalID: -176439443380735558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2340
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008b3e550a358920800000000000000
+      internalID: 2991861322187767818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2340
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c089a2d785280a7d0800000000000000
+      internalID: -2909182042712664052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2340
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacdc68d4f8a38690800000000000000
+      internalID: -7601045976514765650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2340
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ffec179dc17a810800000000000000
+      internalID: 1776420298263822214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2340
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81efd20279246cb70800000000000000
+      internalID: 8918889328901226008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.40666667, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa689d2dd2595f70800000000000000
+      internalID: 9176456825650309794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2160
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.40666667, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc54ae28ecef6db0800000000000000
+      internalID: -4796354596167197493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2160
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.40666667, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28abc6cbd4384a370800000000000000
+      internalID: 8332929580439222914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2160
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.40666667, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb4a3b974bce98a0800000000000000
+      internalID: -6296371720609969182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebbdb87c7c742150800000000000000
+      internalID: 5846935090277235683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1980
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07308bc472a25dc0800000000000000
+      internalID: -3651677725329967350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1980
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8039c8badd34c40800000000000000
+      internalID: 5495479699189729482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1980
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6008bcdcfa55fa970800000000000000
+      internalID: 8768321213073948678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1980
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01103d5e90bce3e0800000000000000
+      internalID: -2023047938381442804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1980
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc374df6288fa6c10800000000000000
+      internalID: 2047722219698942923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1980
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2a2ecabcbd0110800000000000000
+      internalID: 1228845783850822511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1980
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418009d9f2e18e7b0800000000000000
+      internalID: -5194868980316108780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3b7814add47cbc0800000000000000
+      internalID: -3762953363847138306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dac46bf16b08450800000000000000
+      internalID: 6089066943523630410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30814e2e168b45a50800000000000000
+      internalID: 6509030092015147011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbb26b8581eaf4b0800000000000000
+      internalID: -5405760439019455491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667cef3927216b0c0800000000000000
+      internalID: -4560437289347528858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde9c5aa9aff94ad0800000000000000
+      internalID: -2717359795968631077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5a7fc7bb0414ac0800000000000000
+      internalID: -3872743030562249301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d924e0ab1c815b0800000000000000
+      internalID: -5397351148556214976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1908bbf26c0ab0460800000000000000
+      internalID: 7209032401601396881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d938cbdbf8857d30800000000000000
+      internalID: 4428596423894251984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ff199cf9020c90800000000000000
+      internalID: -7205185473333956184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1530aa9c67cdd8f0800000000000000
+      internalID: -514035513185782498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d2bc09031c58760800000000000000
+      internalID: 7459580772140920187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cdb8e5f0f879e90800000000000000
+      internalID: -7018984198060123065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e237a03e44dc50800000000000000
+      internalID: 6689057317422555332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1800
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2013cae9418a72560800000000000000
+      internalID: 7288979328437334274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc9b806bb996c850800000000000000
+      internalID: 6396969350784064729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1620
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf74d81c589193c0800000000000000
+      internalID: -4354531843369566275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1620
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41df451e107f220800000000000000
+      internalID: 2519484583842223285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1620
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b6f1e4d33e117f0800000000000000
+      internalID: -643483419294078177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e9162c31907350800000000000000
+      internalID: 6012465190062907530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1440
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636c23f8e8d9a9f10800000000000000
+      internalID: 2277305797202593334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1440
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08bd5ef201a9b2f0800000000000000
+      internalID: -956556411609958389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc4c993a28501220800000000000000
+      internalID: 2454558735295335625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1260
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9926c545e9537cd0800000000000000
+      internalID: -2561604921790682726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1260
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9dd6f6fee6a6cc0800000000000000
+      internalID: -3717036567795213875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1260
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c1e39daafd631d0800000000000000
+      internalID: -3371261346158076783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1260
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d418faf1915270800000000000000
+      internalID: 8237525700527315038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1260
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88459cd012494dae0800000000000000
+      internalID: -1525431504085625720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1261
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1331c0e58abedd0800000000000000
+      internalID: -2455684049917496924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20827d98ea1ebe10800000000000000
+      internalID: 2215237653089124397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea8eb2be5ac58710800000000000000
+      internalID: 1694983342849428193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 900
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d060b1b1a42d3610800000000000000
+      internalID: 1602477319303225552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1a0210ff0260380800000000000000
+      internalID: -9005474125273062976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 900
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2dbdc0f74accf90800000000000000
+      internalID: -6931984860846501146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c11aec422d8be0800000000000000
+      internalID: -1473483789340391514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 900
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6137e34f41e56040800000000000000
+      internalID: 4640362721633055082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee29fa1a1f9ca1e0800000000000000
+      internalID: -2185196784711029012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 900
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba70b24eea968930800000000000000
+      internalID: 4145170855152876219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bce1552f3982190800000000000000
+      internalID: -7986971270122124536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 360
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9967485d1314f40800000000000000
+      internalID: 5710900595602659820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 360
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a44adb4df6a660800000000000000
+      internalID: 7396877940228924192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 360
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bcdbe916722e990800000000000000
+      internalID: -7358275540941419717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 360
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451e9e6bf8b94bc50800000000000000
+      internalID: 6680135188848697684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 360
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221835f4e92bcae20800000000000000
+      internalID: 3363259414744367394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 360
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168e281c1a0869c0800000000000000
+      internalID: -3933883158727064048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 360
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbacf3e3e98403d0800000000000000
+      internalID: -3241314219924345932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.52, y: 0.38333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aefc22a1efa3c30800000000000000
+      internalID: 4340060579131550338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.52, y: 0.38333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e09740f3bf3f1e0800000000000000
+      internalID: -2165110747758522738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.52, y: 0.38333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfdc10ceb8db8e40800000000000000
+      internalID: 5659855670499663794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 180
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.52, y: 0.38333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da4ff6787e8fc9c0800000000000000
+      internalID: -3904745703863268654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.52, y: 0.38333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba42cfbc54187bb10800000000000000
+      internalID: 1997207096537130155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.52, y: 0.38333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9befbc309c834040800000000000000
+      internalID: 4630699392989391770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.52, y: 0.38333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa8c25f452bbe850800000000000000
+      internalID: 6407410972824996512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hani motions 1-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.52, y: 0.38333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d70f07a3afa5210800000000000000
+      internalID: 1322644569496517933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
